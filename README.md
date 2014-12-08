@@ -1,7 +1,7 @@
 A Byte of Python - IN VIETNAM
 ================
-Hi Author: Swaroop C H
-We are study python fork A byte of python - 
+- Hi Swaroop C H
+- We are  form VIETNAM and study python fork A byte of python - 
 
 ### Thông báo
 ### Tài liệu
